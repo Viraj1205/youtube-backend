@@ -1,0 +1,19 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "Backend with youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Express",
+    "javascipt"
+  ],
+  "author": "Viraj Shinde",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
